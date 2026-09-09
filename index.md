@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Andrea Weibel
 css:
   - /assets/css/profile.css
 ---
