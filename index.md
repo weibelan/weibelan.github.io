@@ -25,6 +25,7 @@ css:
       <a href="mailto:aweibel@hawaii.edu">aweibel@hawaii.edu</a>
     </p>
   </div>
+</div>
 
 I am a postdoctoral research fellow at the University of Hawaiʻi at Manoa, studying distant galaxies and black holes. My main interests are in the identification and characterization of galaxies at high redshift from photometric data -- mostly using the James Webb Space Telescope (JWST). My PhD thesis at the University of Geneva has been awarded the [Prix Schläfli 2026](https://scnat.ch/en/awards/schlaefli/uuid/i/2304ab78-5b45-5965-88f3-f812be43ff31-Andrea_Weibel_discovered_that_galaxies_grow_up_surprisingly_quickly) for one of the four best dissertations in natural sciences in Switzerland.
 
