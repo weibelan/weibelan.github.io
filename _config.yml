@@ -20,10 +20,10 @@ author: Andrea Weibel
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Research:
-    - ADS: "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20first_author%3A%22Weibel%2C%20A.%22%20year%3A(2023-)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-
+  Home: "/"
+  CV: "/assets/files/Andrea_Weibel_CV.pdf"
+  Publications: "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20%20first_author%3A%22Weibel%2C%20A.%22%20year%3A(2023-)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  
 ################
 # --- Logo --- #
 ################
