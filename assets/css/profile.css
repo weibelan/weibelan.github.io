@@ -59,3 +59,13 @@ textarea {
     padding-top: 2rem;
   }
 }
+
+/* Reserve space below the fixed navigation bar. */
+body {
+  padding-top: 100px;
+}
+
+/* Hide the name link in the navigation bar. */
+.navbar .navbar-brand {
+  display: none;
+}
