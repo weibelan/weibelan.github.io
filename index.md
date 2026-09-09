@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Andrea Weibel
 css:
   - /assets/css/profile.css
 ---
@@ -8,7 +7,7 @@ css:
 <div class="profile-header">
   <img
     class="profile-photo"
-    src="{{ '/assets/img/AndreaWeibel.png' | relative_url }}"
+    src="{{ '/assets/img/AndreaWeibel.jpg' | relative_url }}"
     alt="Andrea Weibel"
   >
 
