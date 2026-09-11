@@ -51,8 +51,8 @@ textarea {
 
 @media (max-width: 575px) {
   .profile-photo {
-    width: 190px;
-    height: 190px;
+    width: 400px;
+    height: 400px;
   }
 
   .profile-header {
