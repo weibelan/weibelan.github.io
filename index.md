@@ -42,9 +42,9 @@ for spectroscopic follow-up from the ground, using the [Keck telescope](https://
 
 [Download my CV (PDF)]({{ '/assets/files/Andrea_Weibel_CV.pdf' | relative_url }})
 
-Papers on which I am first, second or third author are listed here on [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=pos(author%3A%22Weibel%2C%20A.%22%2C1%2C3)%20year%3A(2023-)%20(database%3Aastronomy%20OR%20database%3Aphysics)&sort=date%20desc%2C%20bibcode%20desc)
+Papers on which I am first, second or third author are listed here on [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=pos(author%3A%22Weibel%2C%20A.%22%2C1%2C3)%20year%3A(2023-)%20(database%3Aastronomy%20OR%20database%3Aphysics)&sort=date%20desc%2C%20bibcode%20desc).
 
-For a complete list of my publications, see also my [benty-fields](https://www.benty-fields.com/user_profile/8822)
+For a complete list of my publications, see also my [benty-fields](https://www.benty-fields.com/user_profile/8822) (login required).
 
 ## Contact
 
