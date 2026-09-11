@@ -20,9 +20,10 @@ textarea {
 
 .profile-photo {
   display: block;
-  width: 400px;
-  height: 400px;
+  width: 1000px;
   max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
   margin: 0 auto 1.25rem;
   border-radius: 50%;
   object-fit: cover;
@@ -50,10 +51,6 @@ textarea {
 }
 
 @media (max-width: 575px) {
-  .profile-photo {
-    width: 400px;
-    height: 400px;
-  }
 
   .profile-header {
     padding-top: 2rem;
